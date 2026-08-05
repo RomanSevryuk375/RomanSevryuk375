@@ -9,9 +9,7 @@
     <td width="50%" valign="top">
       <h1>Sevryuk Roman</h1>
       <h3>Backend C# Developer</h3>
-      <br>
-      <p>I am an aspiring <b>C#/ASP.NET Developer</b> currently pursuing studies at Minsk Radio Engineering College. While I currently lack commercial development experience, I have gained practical skills through personal projects utilizing <b>ASP.NET Web API, PostgreSQL, and React (with Redux)</b>.</p>
-      <p>My strong time management skills enable me to effectively organize my workflow and meet deadlines. Additionally, my communicative nature and quick learning ability foster effective teamwork.</p>
+      <p>I am an aspiring <b>C#/ASP.NET Developer</b> currently pursuing studies at Minsk Radio Engineering College. While I currently lack commercial development experience, I have gained practical skills through personal projects utilizing.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">My Tech Stack</h3>

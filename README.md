@@ -91,19 +91,8 @@ I am an aspiring <b>C#/ASP.NET Developer</b> currently pursuing studies at Minsk
 <!-- STATS -->
 ## Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=RomanSevryuk375&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- FOOTER -->
